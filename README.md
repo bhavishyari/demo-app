@@ -1,8 +1,6 @@
 <h1 align="center">
-  Hex-Market
+  Demo App
 </h1>
-
-![Project Logo](./assets/HexLogo.svg)
 
 ## Start Guide
 
